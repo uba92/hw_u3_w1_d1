@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  padding: 1rem;
+  background-color: #212121;
+  color: whitesmoke;
+  border-radius: 20px;
+}
+
+.spacing {
+  margin: 3rem auto;
+}
+
+.rounded {
+  border-radius: 25px;
+}
+
+.big {
+  width: 300px;
+}
+
+.normal {
+  width: 175px;
+}
