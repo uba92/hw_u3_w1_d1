@@ -10,7 +10,7 @@ function App() {
         <HeadingComponents text='MY BASIC REACT PROJECT' />
         <ButtonComponents text='CREATE WITH REACT' btnStyle='btn' />
         <ImageComponent
-          src='https://placedog.net/300/250'
+          url='https://placedog.net/300/250'
           spacingStyle='spacing'
           borderRadius='rounded'
           alt='doggo'
